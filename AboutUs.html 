@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+About Us
+</title>
+ <div id="mission">
+  <div class='container'>
+    <h2><small>Who are we?</small><br />Emma and Lisa are students at Cambridge who have a passion for trip planning.</h2>
+    <p class="lead">
+
+    <p>We are both MPhils from the U.S., and we've quickly fallen in love with all Cambridge has to offer. We're here to show you the very best coffeeshops, restaurants, pubs, and more. Whether you want to make the most of a day here or waste an afternoon with a pint, we're happy to be your local guides.</p>
+    </p>
+</head>

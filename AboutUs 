@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+About Us
+</title>
+ <div id="mission">
+  <div class='container'>
+    <h2><small>Who are we?</small><br />Emma and Lisa are students at Cambridge who have a passion for trip planning.</h2>
+    <p class="lead">
+
+    <p>We have lots of great suggestions to plan your trip to Cambridge.</p>
+    </p>
+</head>
