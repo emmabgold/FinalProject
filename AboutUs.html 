@@ -4,6 +4,7 @@
 <title>
 About Us
 </title>
+<link href='LisaEmma.css' rel='stylesheet'>
  <div id="mission">
   <div class='container'>
     <h2><small>Who are we?</small><br />Emma and Lisa are students at Cambridge who have a passion for trip planning.</h2>
