@@ -15,8 +15,8 @@ Cambridge Time
 <div class='col-sm-4'>
 <h1>Cambridge Time</h1>
 <div>
-<div class='col-sm-8'>
-<img src='cambridge.jpg' class='img-responsive' alt="Responsive image" class='jumbotron'>
+<img src='stjohns.jpg' class='img-responsive' alt="Responsive image" class='jumbotron'>
+  <div class='container'>
 </div>
  </div>
 
@@ -26,12 +26,7 @@ Cambridge Time
       <button class='btn btn-lg'>Send</button>
     </form>
   </div>
-<ul>
-<li><a href="AboutUs.html%20">About Us</a></li>
-<li><a href="Activities.html">Activities</a></li>
-<li><a href="Food.html">Food</a></li>
-<li><a href="Itinerary.html">Itinerary Builder</a></li>
-</ul>
+
  <div id="Why Use Cambridge Time?">
   <div class='container'>
     <h2><small>Why Use Cambridge Time?</small><br />With our website, discover all the very best Cambridge has to offer -- food, nightlife, activites, and more!</h2>
@@ -41,6 +36,14 @@ Cambridge Time
       <button class='btn-pinterest btn btn-lg'>Pinterest</button>
     </div>
   </div>
+
+<ul style='list-style: none;'>
+<li><a href="AboutUs.html%20">About Us</a></li>
+<li><a href="Activities.html">Activities</a></li>
+<li><a href="Food.html">Food</a></li>
+<li><a href="Itinerary.html">Itinerary Builder</a></li>
+</ul>
+
 </div>
 </header>
 </body>
