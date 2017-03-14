@@ -5,21 +5,46 @@
 Cambridge Time
 </title>
 <link href='LisaEmma.css' rel='stylesheet'>
+<style>
+body {
+  background= url('stjohns.jpg');
+}
+#banner {
+  #banner {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 200px;
+  z-index: -1;
+}
+</style>
 </head>
 <body>
-<div class='jumbotron'>
-<div class="container">
-</div>
+  <img id='banner' src='stjohns.img' alt='Banner Image'/>
+</body>
 <header>
 <div class='row'>
 <div class='col-sm-4'>
 <h1>Cambridge Time</h1>
+  <img source='stjohns.jpg'>
 <div>
+<<<<<<< Updated upstream
 <img src='stjohns.jpg' class='img-responsive' class='jumbotron' alt='banner image'>
+=======
+<<<<<<< Updated upstream
+<img src='stjohns.jpg' class='img-responsive' alt='Banner'>
+=======
+<<<<<<< HEAD
+=======
+<img src='stjohns.jpg' class='img-responsive' alt='Banner'>
+>>>>>>> origin/master
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
   <div class='container'>
 </div>
  </div>
-
     <form role='form'>
       <label for="email">Find out more</label>
       <input type="text" name="email" >
