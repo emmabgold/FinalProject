@@ -6,14 +6,12 @@ Cambridge Time
 </title>
 <link href='LisaEmma.css' rel='stylesheet'>
 </head>
+<h1>Cambridge Time
+  </h1>
 <body>
   <img src='stjohns.jpg' class='jumbotron' class='img-responsive'>
 </body>
 <header>
-<div class='row'>
-<div class='col-sm-4'>
-<h1>Cambridge Time</h1>
-  <img source='stjohns.jpg'>
 </div>
  </div>
     <form role='form'>
