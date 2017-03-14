@@ -5,44 +5,15 @@
 Cambridge Time
 </title>
 <link href='LisaEmma.css' rel='stylesheet'>
-<style>
-body {
-  background= url('stjohns.jpg');
-}
-#banner {
-  #banner {
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  width: 100%;
-  height: 200px;
-  z-index: -1;
-}
-</style>
 </head>
 <body>
-  <img id='banner' src='stjohns.img' alt='Banner Image'/>
+  <img src='stjohns.jpg' class='jumbotron' class='img-responsive'>
 </body>
 <header>
 <div class='row'>
 <div class='col-sm-4'>
 <h1>Cambridge Time</h1>
   <img source='stjohns.jpg'>
-<div>
-<<<<<<< Updated upstream
-<img src='stjohns.jpg' class='img-responsive' class='jumbotron' alt='banner image'>
-=======
-<<<<<<< Updated upstream
-<img src='stjohns.jpg' class='img-responsive' alt='Banner'>
-=======
-<<<<<<< HEAD
-=======
-<img src='stjohns.jpg' class='img-responsive' alt='Banner'>
->>>>>>> origin/master
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-  <div class='container'>
 </div>
  </div>
     <form role='form'>
@@ -54,7 +25,8 @@ body {
 
  <div id="Why Use Cambridge Time?">
   <div class='container'>
-    <h2><small>Why Use Cambridge Time?</small><br />With our website, discover all the very best Cambridge has to offer -- food, nightlife, activites, and more!</h2>
+    <h2>Cambridge Time and Ways to Waste It</h2>
+    <p>With our website, discover all the very best Cambridge has to offer -- food, nightlife, activites, and more!</p>
     <div id='social-buttons'>
       <button class='btn-twitter btn btn-lg'>Twitter</button>
       <button class='btn-facebook btn btn-lg'>Facebook</button>
