@@ -27,19 +27,18 @@ Cambridge Time
   <div class='container'>
     <h2>Cambridge Time and Ways to Waste It</h2>
     <p>With our website, discover all the very best Cambridge has to offer -- food, nightlife, activites, and more!</p>
+    <ul style='list-style: none;'>
+<li><a href="AboutUs.html%20">About Us</a></li>
+<li><a href="Activities.html">Activities</a></li>
+<li><a href="Food.html">Food</a></li>
+<li><a href="Itinerary.html">Itinerary Builder</a></li>
+</ul>
     <div id='social-buttons'>
       <button class='btn-twitter btn btn-lg'>Twitter</button>
       <button class='btn-facebook btn btn-lg'>Facebook</button>
       <button class='btn-pinterest btn btn-lg'>Pinterest</button>
     </div>
   </div>
-
-<ul style='list-style: none;'>
-<li><a href="AboutUs.html%20">About Us</a></li>
-<li><a href="Activities.html">Activities</a></li>
-<li><a href="Food.html">Food</a></li>
-<li><a href="Itinerary.html">Itinerary Builder</a></li>
-</ul>
 
 </div>
 </header>
