@@ -7,6 +7,8 @@ About Us
 <link href='LisaEmma.css' rel='stylesheet'>
  <div id="mission">
   <div class='container'>
+  	<img src='emma.jpg' class='img-circle'>
+  	<img src='lisa-lake.jpg' class='img-circle'>
     <h2><small>Who are we?</small><br />Emma and Lisa are students at Cambridge who have a passion for trip planning.</h2>
     <p class="lead">
 
